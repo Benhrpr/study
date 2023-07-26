@@ -1,7 +1,7 @@
-print("Do you want to study french? If so typ 'y'")
+print("Do you want to study french? If so type 'y'")
 
-if input("y")
-  print("What does bonjour mean?"
+if input("y"):
+    print("What does bonjour mean?")
 
-if input("Hello")
-  print("Correct")
+if input("Hello"):
+    print("Correct")
